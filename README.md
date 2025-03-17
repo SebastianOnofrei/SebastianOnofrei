@@ -8,7 +8,7 @@ Technology is my passion. I have been coding for 5 years in various frameworks a
 
 * 🌍  I'm based in Brasov, Romania
 * ✉️  You can contact me at [sebastian.onofrei.business@gmail.com](mailto:sebastian.onofrei.business@gmail.com)
-* 🧠  I'm learning Vue & Nuxt & Nest
+* 🧠  Worked at Siemens, Endava, Nagarro and IBM
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
