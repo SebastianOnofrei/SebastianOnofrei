@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer
 -----------------
 
-Technology is my passion. I have been coding for 5 years in various frameworks and languages. I specialize in frontend development, but I can for sure also help on the backend side if needed.
+Technology is my passion. I have been coding for more than 6 years in various frameworks and languages. I specialize in frontend development, but I can for sure also help on the backend side if needed.
 
 * 🌍  I'm based in Brasov, Romania
 * ✉️  You can contact me at [sebastian.onofrei.business@gmail.com](mailto:sebastian.onofrei.business@gmail.com)
-* 🧠  Worked at Siemens, Endava, Nagarro and IBM
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  Worked at Siemens, Endava, Nagarro and more recently at IBM
+* 🤝  I'm open to collaborating on interesting projects, mainly the MERN, MEAN or MEVN stack.
 
 ### Skills
 
