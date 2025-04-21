@@ -1,15 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sebastian - but call me Seby / Seb.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Sebastian.
 =========================================================================================================================================
 
 Frontend Engineer
 -----------------
 
-Technology is my passion. I have been coding for more than 6 years in various frameworks and languages. I specialize in frontend development, but I can for sure also help on the backend side if needed.
+*Technology is my passion.
+*I completed my Bachelor's degree in Electrical Engineering and Computer Science at Transilvania University of Brașov, in an business English-taught program. 
+*I have been coding for more than 6 years in various frameworks and languages. I am deeply committed to developing innovative and high-performing software solutions. 
+*My expertise spans across a broad spectrum of technologies, both on the frontend and backend, enabling me to craft end-to-end solutions that are efficient, scalable, and user-focused.
 
-* 🌍  I'm based in Brasov, Romania
+
+* 🌟 I specialize in frontend development
+* 🌍  I'm a Senior Software Engineer based in Brasov, Romania
+* 🧠  I have 4+ years of professional experience at leading companies like Siemens, Endava, Nagarro, and IBM. 
 * ✉️  You can contact me at [sebastian.onofrei.business@gmail.com](mailto:sebastian.onofrei.business@gmail.com)
-* 🧠  Worked at Siemens, Endava, Nagarro and more recently at IBM
-* 🤝  I'm open to collaborating on interesting projects, mainly the MERN, MEAN or MEVN stack.
+* 🤝  I'm open to collaborating on interesting projects, mainly the MERN or MEAN stack.  
 
 ### Skills
 
