@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 Technology is my passion.
-I completed my Bachelor's degree in Electrical Engineering and Computer Science at Transilvania University of Brașov, in an business English-taught program. 
+I completed my Bachelor's degree in Electrical Engineering and Computer Science at Transilvania University of Brașov, in a business English-taught program. 
 I have been coding for more than 6 years in various frameworks and languages. I am deeply committed to developing innovative and high-performing software solutions. 
 My expertise spans across a broad spectrum of technologies, both on the  **frontend** and **backend** , enabling me to craft end-to-end solutions that are efficient, scalable, and user-focused.
  
