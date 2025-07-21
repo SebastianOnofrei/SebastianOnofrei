@@ -18,7 +18,7 @@ My expertise spans across a broad spectrum of technologies, both on the  **front
 - **React**, **Angular**, **Vue.js**
 - **HTML5**, **CSS3**, **JavaScript**, **TypeScript**
 - **TailwindCSS**, **Bootstrap**, **Material UI**
-- **Next.js** (for server-side rendered React applications)
+ 
 
 ### 🔹 **Backend Development:**
 - **Node.js**, **NestJS**, **Express.js** (JavaScript/TypeScript)
@@ -26,16 +26,15 @@ My expertise spans across a broad spectrum of technologies, both on the  **front
 - Building **RESTful APIs** & **GraphQL APIs**
 
 ### 🔹 **Databases & Storage:**
-- **MongoDB**, **PostgreSQL**, **MySQL**, **Cassandra**, **Redis**, **Neo4j**, **HBase**, **Datomic**
+- **MongoDB**, **PostgreSQL**, **MySQL**, **Cassandra**, **Redis**
 
 ### 🔹 **Real-time Technologies & Messaging:**
 - **WebSockets**, **WebRTC**
 - **Kafka** (for event-driven architectures and stream processing)
 
 ### 🔹 **Cloud & DevOps:**
-- **AWS Cloud Practitioner Certified**  
 - Experience working with cloud platforms and deployment pipelines
-- **Docker**, **Kubernetes**, **CI/CD**, Cloud Infrastructure Integration
+- **Docker**, **Kubernetes**, **CI/CD**
 
 ### 🔹 **Version Control & Collaboration:**
 - **Git**, **GitHub**, **GitLab**
@@ -52,13 +51,10 @@ I’ve developed solutions ranging from enterprise-level applications to smaller
 - Expertise in both **frontend frameworks** and **backend systems**.
 - Proficient in **modern database architectures** and distributed systems (including **Kafka** for stream processing, **Redis** for caching, and **Cassandra** for distributed data storage).
 - Experience with building **real-time applications** using **WebSockets** and **WebRTC**.
-- **AWS Certified Cloud Practitioner** and hands-on experience with cloud technologies and CI/CD pipelines.
+
 
 ## 🔑 Always eager to learn, I’m constantly exploring new tools, techniques, and frameworks to stay on the cutting edge of software development.  
 Feel free to connect if you'd like to discuss new opportunities, tech challenges, or simply share knowledge!
-
-
-
 
 
 
