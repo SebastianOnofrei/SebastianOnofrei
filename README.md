@@ -10,7 +10,7 @@ My expertise spans across a broad spectrum of technologies, both on the  **front
 * 🌍  I'm a Senior Software Engineer based in Brasov, Romania
 * 🧠  I have 4+ years of professional experience at leading companies like **Siemens**, **Endava**, **Nagarro**, and **IBM**.
 * ✉️  You can contact me at [sebastian.onofrei.business@gmail.com](mailto:sebastian.onofrei.business@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects, mainly the MERN or MEAN stack.  
+* 🤝  I'm open to collaborating on interesting projects, mainly the MERN / MEAN / MEVN stacks.  
 
 ## 🚀 Technologies I Excel In:
 
