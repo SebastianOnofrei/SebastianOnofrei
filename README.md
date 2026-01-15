@@ -1,16 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Sebastian.
 =========================================================================================================================================
 
-Technology is my passion.
-I completed my Bachelor's degree in Electrical Engineering and Computer Science at Transilvania University of Brașov, in a business English-taught program. 
-I have been coding for more than 7 years in various frameworks and languages. I am deeply committed to developing innovative and high-performing software solutions. 
-My expertise spans across a broad spectrum of technologies, both on the  **frontend** and **backend** , enabling me to craft end-to-end solutions that are efficient, scalable, and user-focused.
- 
-* 🌟  I specialize in frontend development, but can also do fullstack work.
-* 🌍  I'm a Senior Software Engineer based in Brasov, Romania
-* 🧠  I have 5+ years of professional experience at leading companies like **Siemens**, **Endava**, **Nagarro**, and now @ **IBM**.
+Software Engineer with 8 years of coding experience, including 5+ years professionally, specializing in frontend and fullstack development (MERN / MEAN / MEVN). I build efficient, scalable, and user-focused applications.
+* 🌍 Based in Brașov, Romania
+* 🇳🇴 Looking for projects in Norway
+* 🧠 Experience at Siemens, Endava, Nagarro, and IBM
 * ✉️  You can contact me at [sebastian.onofrei.business@gmail.com](mailto:sebastian.onofrei.business@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects, mainly the MERN / MEAN / MEVN stacks.  
+
 
 ## 🚀 Technologies I Excel In:
 
