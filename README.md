@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Sebastian.
 =========================================================================================================================================
 
-Software Engineer with 8 years of coding experience, including 5+ years professionally, specializing in frontend and fullstack development (MERN / MEAN / MEVN). I build efficient, scalable, and user-focused applications.
+Software Engineer with 5 years of coding experience specializing in fullstack development (MERN / MEAN / MEVN). I build efficient, scalable, and user-focused applications.
 * 🌍 Based in Brașov, Romania
-*  Looking for projects in Norway / Saudi Arabia / Dubai / Qatar / Switzerland / Singapore
+*  Ready to relocate to Norway / Saudi Arabia / Dubai / Qatar / Switzerland / Singapore
 * 🧠 Experience at Siemens, Endava, Nagarro, and IBM
 * ✉️  You can contact me at [sebastian.onofrei.business@gmail.com](mailto:sebastian.onofrei.business@gmail.com)
 
