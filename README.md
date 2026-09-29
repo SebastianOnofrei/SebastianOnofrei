@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer with 5 years of coding experience specializing in fullstack development (MERN / MEAN / MEVN). I build efficient, scalable, and user-focused applications.
 * 🌍 Based in Brașov, Romania
-*  Ready to relocate to Norway / Saudi Arabia / Dubai / Qatar / Switzerland / Singapore
+*  Ready to relocate to Norway / Saudi Arabia / Dubai / Qatar / Switzerland / Singapore / Germany
 * 🧠 Experience at Siemens, Endava, Nagarro, and IBM
 * ✉️  You can contact me at [sebastian.onofrei.business@gmail.com](mailto:sebastian.onofrei.business@gmail.com)
 
